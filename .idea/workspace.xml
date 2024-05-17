@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="076e6b9d-2a95-4ed8-a5f3-cfdd695a3d74" name="Changes" comment="" />
+    <list default="true" id="076e6b9d-2a95-4ed8-a5f3-cfdd695a3d74" name="Changes" comment="Nätverkslabb, C-nivå, skrivit in kod till server.">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MulticastChatClient_Joakim/src/MulticastChatClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/MulticastChatClient_Joakim/src/MulticastChatClient.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -23,8 +30,14 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "master",
+    "jdk.selected.JAVA_MODULE": "openjdk-20",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -36,8 +49,24 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1715963264528</updated>
-      <workItem from="1715963265548" duration="1000" />
+      <workItem from="1715963265548" duration="1809000" />
     </task>
+    <task id="LOCAL-00001" summary="Nätverkslabb, C-nivå, skrivit in kod till server.">
+      <option name="closed" value="true" />
+      <created>1715964265131</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1715964265131</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Nätverkslabb, C-nivå, skrivit in kod till server." />
+    <option name="LAST_COMMIT_MESSAGE" value="Nätverkslabb, C-nivå, skrivit in kod till server." />
   </component>
 </project>
