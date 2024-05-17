@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/MulticastChatClient_Joakim/MulticastChatClient_Joakim.iml" filepath="$PROJECT_DIR$/MulticastChatClient_Joakim/MulticastChatClient_Joakim.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MulticastChatServer_Joakim/MulticastChatServer_Joakim.iml" filepath="$PROJECT_DIR$/MulticastChatServer_Joakim/MulticastChatServer_Joakim.iml" />
+      <module fileurl="file://$PROJECT_DIR$/NetworkingCLevel.iml" filepath="$PROJECT_DIR$/NetworkingCLevel.iml" />
+    </modules>
+  </component>
+</project>
